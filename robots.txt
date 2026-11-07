@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smaatchidave-design.github.io/nigeria-leads-guide/sitemap.xml
